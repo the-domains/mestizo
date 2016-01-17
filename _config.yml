@@ -1,26 +1,14 @@
+layout_spectrum: 0.8491622
 color:
   saturation: 0.9997709
   brandStrength: 0.6410928
-  rhythmicContrast: 0.9478875
+  lightness: 0.896495
   brandColors:
     - '#0D0C0B'
     - '#886D43'
     - '#FBFBFF'
     - '#C6ACB3'
     - '#39536E'
-  lightness: 0.896495
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-layout_spectrum: 0.8491622
+  rhythmicContrast: 0.9478875
 typography_spectrum: 0.6715525
 name: Mestizo
